@@ -74,7 +74,7 @@ onMounted(() => {
         <input type="submit" value="Add todo" />
       </form>
     </section>
-    <section class="todo_list">
+    <section class="todo-list">
       <h3>Todo List</h3>
       <div class="list" id="todo-list">
         <div
